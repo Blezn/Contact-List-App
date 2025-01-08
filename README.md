@@ -2,6 +2,17 @@
 
 A Contact list app built with Flutter.
 The Contact List  Application, using sqflite, a package from Flutter allow you to create, edit and delete, also organize them from A-Z, or from Z-A, put images (from gallery), in your contact.
+- Clone this repository:
+$ git clone https://github.com/felipecastrosales/Contacts contacts
+
+- Enter in directory:
+$ cd contacts
+
+- For install dependencies:
+$ flutter packages get
+
+- Run the app: 
+$ flutter run
 ![IMG_20250108_175135](https://github.com/user-attachments/assets/b9a5fa1f-39c2-4ded-9fb8-40050f251ee6)
 ![IMG_20250108_175108](https://github.com/user-attachments/assets/f2a983f6-4eba-4187-92b8-2c7168165ccd)
 ![IMG_20250108_174354](https://github.com/user-attachments/assets/edd39164-1224-4728-920d-c1e8c970c87e)
